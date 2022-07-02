@@ -1,2 +1,1 @@
-# projeto-24
-projeto direcionado a Byjus
+# PRO-C24-ArqueiroEpico-Modelo
